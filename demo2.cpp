@@ -60,6 +60,10 @@ void saveImage () {
    writeGSBMP(imageFileName, image);
 }
 
+
+
+
+
 //_________________________________________
 
 //turns image black and white
