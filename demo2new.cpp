@@ -19,6 +19,7 @@ unsigned char edgesImage[SIZE][SIZE];
 
 void loadImage ();
 void saveImage ();
+
 void black_and_white();
 void flip();
 void mirror();
